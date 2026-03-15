@@ -32,7 +32,7 @@ A powerful Flask-based location tracking application that captures GPS coordinat
 #### Step 1 - Clone or Download Project
 ```bash
 cd Desktop
-git clone <your-repo-url>
+git clone https://github.com/hackermamo/Location-track.git
 cd "Hacking pro"
 ```
 
