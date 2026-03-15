@@ -76,7 +76,7 @@ pkg install python openssl git
 #### Step 3 - Clone Project
 ```bash
 cd /sdcard
-git clone <your-repo-url>
+git clone https://github.com/hackermamo/Location-track.git
 cd "Hacking pro"
 ```
 
